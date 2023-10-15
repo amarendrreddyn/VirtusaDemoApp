@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="userDataCardHeight">100dp</dimen>
+    <dimen name="userCardViewMargin">5dp</dimen>
+    <dimen name="userDetailTextSize">14sp</dimen>
+
+</resources>
